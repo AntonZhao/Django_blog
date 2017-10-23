@@ -5,7 +5,7 @@ GIT_REPO = "https://github.com/AntonZhao/Django_blog"
 
 env.user = 'AntonZhao'
 env.password = 'zx19950322'
-env.hosts = [39.106.48.224]
+env.hosts = ["39.106.48.224"]
 env.port = '22'
 
 def deploy():
